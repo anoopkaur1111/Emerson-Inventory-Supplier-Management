@@ -1,10 +1,8 @@
 # Emerson's Inventory & Supplier Management
 ---
 
-# Project Title
-
 ## Description
-Briefly describe the purpose of the notebooks, what kind of analysis they perform, and the value they provide.
+Inventory and Supplier management for Emerson's Tank Topper product
 
 ## Files
 - `ABC Classification and Safety Stock.ipynb`: This notebook performs EDA, ABC classification of items, Safety stock analysis and built regression model to predict safety stock.
